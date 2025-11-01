@@ -1,0 +1,4 @@
+.adopt-card{ background:white; padding:12px; border-radius:12px; box-shadow: var(--card-shadow); text-align:center; }
+.adopt-card img{ width:100%; height:160px; object-fit:cover; border-radius:10px; }
+.adopt-card h4{ margin:10px 0 6px 0; color:var(--verde-escuro); }
+.adopt-card p{ color:var(--muted); font-size:14px; }

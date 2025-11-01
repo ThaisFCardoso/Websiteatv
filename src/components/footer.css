@@ -1,0 +1,4 @@
+.site-footer{ background: linear-gradient(90deg,var(--rosa-bebe), var(--verde-menta)); padding:18px 0; margin-top:36px; border-top-left-radius:12px; border-top-right-radius:12px; }
+.footer-inner{ display:flex; justify-content:space-between; align-items:center; gap:12px; }
+.footer-inner .muted{ color:var(--muted); font-size:13px; margin-top:6px; }
+.socials a{ margin-left:10px; display:inline-block; padding:6px 10px; border-radius:8px; background:white; color:var(--verde-escuro); font-weight:700;}
